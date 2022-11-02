@@ -427,3 +427,6 @@ export default class N extends Sprite {
    this.visible = false;
  }
 }
+
+Data link:
+https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Water/Beaches/state-of-beaches-2020-2021-sydney-210266.pdf
